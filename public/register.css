@@ -1,0 +1,63 @@
+@import url('/auth.css');
+
+
+.container.active .form-container form{
+    max-width: 340px;
+}
+
+.container.active .form-container h1{
+    font-size: 30px;
+    margin-bottom: 12px;
+}
+
+.container.active .form-container label{
+    font-size: 13px;
+    margin: 8px 0 6px;
+}
+
+.container.active .form-container input{
+    height: 44px;
+    font-size: 13px;
+    border-radius: 10px;
+    padding: 0 13px;
+}
+
+.container.active .main-btn{
+    height: 46px;
+    font-size: 14px;
+    margin-top: 14px;
+}
+
+.container.active .divider{
+    margin: 14px 0;
+}
+
+.container.active .divider span{
+    font-size: 12px;
+}
+
+.container.active .google-btn{
+    height: 46px;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.container.active .google-btn .g{
+    font-size: 19px;
+}
+
+.container.active .overlay-panel h2{
+    font-size: 34px;
+}
+
+.container.active .overlay-panel p{
+    font-size: 13px;
+    margin-bottom: 18px;
+}
+
+.container.active .ghost-btn{
+    min-width: 150px;
+    height: 44px;
+    font-size: 14px;
+    border-radius: 10px;
+}

@@ -19,7 +19,7 @@ class AdminAccountController extends Controller
     {
         $this->ensureAdmin();
 
-        // نجيبو جميع admin + agent
+       
         $accounts = User::whereIn('role', ['admin', 'agent'])
             ->orderBy('id', 'desc')
             ->get();

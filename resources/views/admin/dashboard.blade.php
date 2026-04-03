@@ -347,7 +347,6 @@
             <span>Create Accounts</span>
            </a>
 
-            <!-- ✅ Support Agents تبدلات ل Contact وطلعات لل General -->
             <a href="#" class="menu-item">
                 <span class="menu-icon">✉</span>
                 <span>Contact</span>
